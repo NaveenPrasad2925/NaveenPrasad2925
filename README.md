@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Naveen Prasad Cheyyar Annamalai</h1>
-<h3 align="center">"Aspiring Software Engineer | Data Analytics Graduate | Python • Django • ML • Document Automation"</h3>
+<h3 align="center">"Aspiring Software Engineer | Data Analytics Graduate | Javascript | HTML | NodeJS"</h3>
 
-- 🔭 I’m currently working on **ML projects & prompt engineering**
 
-- 🧠 Learning & Growing **Tech enthusiast on a journey through AI, Web Dev & Data Analytics | Always building**
+🔧 Currently working on:
+- Backend development using **Python**, **Java**, and **Spring Boot**
+- Cloud platforms like **AWS**, **Docker**, and **Kubernetes**
+- AI & ML models, including **LLM experimentation** and **prompt engineering**
 
-- 🚧 Always learning, improving, and exploring **New ways to build smarter systems with clean, scalable code.**
+🚀 **Key Projects & Experience:**
+- 🛡️ Contributed to Arrosoft's Airgap Software team, enhancing file integrity modules and practicing agile development.
+- 🤖 Developed an automated **UV sterilization robot** in collaboration with BESTMACH Industries — selected as one of the top final-year projects.
+- 📊 Completed ML research on **Job Trend Analysis and Salary Prediction** using real-world data.
 
-- 🔥 Tech-Savvy & Active **Crafting intelligent apps with Python, Django & Machine Learning | Open to opportunities**
-
-- 🧑‍💻 Fun + Technical [Turning ideas into code | Python, Django, ML | Open source learner & coffee-fueled dev ☕](Turning ideas into code | Python, Django, ML | Open source learner & coffee-fueled dev ☕)
-
-- 💼 Career-Focused **Master's in Data Analytics | Python Developer | Focused on AI, Backend & Document Processing**
 
 - 📫 How to reach me **naveen12prasad@gmail.com**
 
